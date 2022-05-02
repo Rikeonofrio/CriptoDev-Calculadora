@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+    font-size: 60px;
+}
+
+body {
+    width: 300px;
+    height: auto;
+    padding: 0px;
+    background-color: azure;
+    margin-left: 500px;
+    margin-top: 120px;
+}
+
+div {
+    background-color: blue;
+    padding: 0px;
+}
+
+form {
+    background-color: blueviolet;
+    padding: 0px;
+}
+
+.Calculadora {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.7) url('fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center center fixed;
+    position: absolute;
+    width: 450px;
+    height: 210px;
+    left: 375px;
+    top: 73px;
+    padding: 0px;
+    border-radius: 10px 10px 0px 0px ;
+}
+
+table {
+    background-color: rgb(69, 81, 92);
+    padding: 0px;
+    position: absolute;
+    width: 450px;
+    height: 400px;
+    left: 376px;
+    top: 287px;
+    border-radius: 0px 0px 10px 10px ;
+}
+
+input {
+    background-color: rgb(212, 77, 14);
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    width: 70px;
+    height: 80px;
+    margin-left: 5 px;
+}
+
+
+
+td {
+    text-align: center;
+    background-color: rgb(69, 81, 92);
+    margin-right:5px;
+    width: 10px;
+    height: 40px;
+}
+button {
+    text-align: center;
+    border: none;
+    border-radius: 5px 5px 5px 5px ;
+    padding: 10px;
+    margin-top: 5px;
+    margin-right:5px;
+    
+}
+
+ 
